@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pgb@bunce-family.net",
+    "longName": "Binary Time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/BinaryTime_28x28.png",
+                "menuIcon": true,
+                "name": "IMAGE_APP_SCREENSHOT",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Courier New Bold.ttf",
+                "name": "FONT_COURIER_NEW_BOLD_40",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Binary Time",
+    "uuid": "575860f6-7189-4f6d-800d-c7207e1ffe3b",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
